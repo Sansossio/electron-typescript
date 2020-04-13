@@ -1,3 +1,3 @@
-# Electron + typescript
+# Electron + typescript (+ React soon)
 
-Basic boiler plate
+Basic boilerplate
