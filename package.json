@@ -8,7 +8,9 @@
     "build": "npm run build:electron",
     "build:tsc": "tsc",
     "build:electron": "npm run build:tsc && electron-builder",
-    "start": "electron app/index.js"
+    "start": "electron app/index.js",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
   },
   "repository": {
     "type": "git",
